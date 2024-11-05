@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eqeweusa.github.io/Rij/sitemap_index.txt
+Sitemap: https://eqeweusa.github.io/WbD/sitemap_index.txt
+Sitemap: https://eqeweusa.github.io/Wup/sitemap_index.txt
+Sitemap: https://eqeweusa.github.io/mEC/sitemap_index.txt
